@@ -1,2 +1,2 @@
 # Pyculator
-Calculador em Python!
+Calculadora em Python!
